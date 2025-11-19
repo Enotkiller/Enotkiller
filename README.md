@@ -1,9 +1,8 @@
-# Привіт, я Енот
+# Привет, я Енот
 
-Python-разработчик из Украины. Специализируюсь на Telegram-ботах, которые реально используют люди.
-
+Python-разработчик из Украины. Специализируюсь на Telegram-ботах.
 ### Главный проект
-[![Telegram-бот для колледжа](https://img.shields.io/badge/Бот%20для%20расписания%20пар-00A3E0?style=for-the-badge&logo=telegram)](https://github.com/Enotkiller/telegram-bot-for-college)
+[![Telegram-бот для колледжа](https://img.shields.io/badge/github-%D0%91%D0%BE%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%B0%D1%80-blue?logo=github)](https://github.com/Enotkiller/telegram-bot-for-college)
 → Aiogram 3 • Redis • Docker • напоминания за 10 минут + пинги  
 → Уже работает в реальных студенческих чатах
 
