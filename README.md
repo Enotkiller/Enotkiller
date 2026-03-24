@@ -1,19 +1,16 @@
-# Привет, я Енот
+# Привет 👋, я Enotkiller
 
-Python-разработчик из Украины. Специализируюсь на Telegram-ботах.
-### Главный проект
-[![Telegram-бот для колледжа](https://img.shields.io/badge/github-%D0%91%D0%BE%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%B0%D1%80-blue?logo=github)](https://github.com/Enotkiller/telegram-bot-for-college)
-→ Aiogram 3 • Redis • Docker • напоминания за 2 минут + пинги  
-→ Уже работает в реальных студенческих чатах
+### Я начинающий разработчик на Python и Rust.
 
-### Что умею прямо сейчас (и делаю быстро и качественно)
-- Telegram-боты любой сложности (расписания, уведомления, модерация, админки)
-- Перенос ботов на Docker и деплой в прод
-- Работа с Redis и JSON-базой
-- Парсеры и автоматизация
-- Работа с sqlite3 и postgresql
-  
-### Что изучаю сейчас
-- FastAPI
+- 🌱 Сейчас я учу **Rust.**
 
-Telegram: [@en0tpalaskyn](https://t.me/en0tpalaskyn)
+- 📫 Почта для связи: **enot0off05@gmail.com**
+
+### Опыт:
+- ⛳ В написании тг-ботов.
+
+- 🎭 Создание простых tcp/ip соединений.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+
